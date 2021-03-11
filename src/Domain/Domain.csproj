@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Webinar202103.Domain</RootNamespace>
+    <AssemblyName>Webinar202103.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
